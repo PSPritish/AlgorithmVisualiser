@@ -1,4 +1,4 @@
-Sure, here's a sample README for your GitHub repository:
+
 
 ---
 
@@ -73,13 +73,6 @@ Contributions are what make the open-source community such an amazing place to l
     ```
 5. **Open a Pull Request**
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-Your Name - [your_email@example.com](mailto:your_email@example.com)
-
-Project Link: [https://github.com/your_username/sorting-visualizer](https://github.com/your_username/sorting-visualizer)
 
 ---
 
