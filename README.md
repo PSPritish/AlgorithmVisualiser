@@ -17,7 +17,7 @@ This project is a web-based sorting visualizer that allows you to visualize diff
 - [Contact](#contact)
 
 ## Demo
-You can try the Sorting Visualizer live [here](#).
+You can try the Sorting Visualizer live [here]([#](https://pspritish.github.io/PSPritish..github.io/)).
 
 ## Features
 - Generate a random array of elements to sort
