@@ -76,4 +76,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 ---
 
-You can replace the placeholder URLs and email addresses with your actual information. This README provides a clear overview of your project and instructions on how to set it up and contribute to it.
